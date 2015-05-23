@@ -20,7 +20,7 @@ Windows7でのみ確認しているため、他のOSでも同様なのかは分�
  1. index.htmlがあるフォルダに辿り着いたら、そこにこのimefix.min.jsをコピペ
  1. index.htmlの中身を書き換えて、\<script type="text/javascript" src="index.js"></script>の直前に\<script type="text/javascript" src="imefix.min.js"></script>を記述する
  1. 最高の夏を過ごす
-```html:index.html
+```html
 <!-- Copyright (C) Microsoft Corporation. All rights reserved. -->
 <!DOCTYPE html>
 <html lang="en">
